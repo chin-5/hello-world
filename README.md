@@ -1,3 +1,3 @@
 # hello-world
-memorandum of ideas 
+memorandum of ideas \n
 i have social phobia, yoroshiku.
